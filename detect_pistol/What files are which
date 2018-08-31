@@ -1,0 +1,2 @@
+person-camera-session-one.py: Uses a session of tensorflow to detect people in a camera feed (object detection)
+person-cmaera-session-two.py: Uses a session of tensorflow to detect guns in images of people (image recognition)
