@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>download.jpeg</filename>
+	<path>/home/nick/Downloads/images/download.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>260</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rifle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>64</ymin>
+			<xmax>214</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+</annotation>
