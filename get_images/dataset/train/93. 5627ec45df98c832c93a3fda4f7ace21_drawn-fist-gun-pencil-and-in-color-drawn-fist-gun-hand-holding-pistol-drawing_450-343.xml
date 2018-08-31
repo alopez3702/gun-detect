@@ -1,0 +1,26 @@
+<annotation>
+	<folder>holding pistol</folder>
+	<filename>93. 5627ec45df98c832c93a3fda4f7ace21_drawn-fist-gun-pencil-and-in-color-drawn-fist-gun-hand-holding-pistol-drawing_450-343.jpeg</filename>
+	<path>/home/helio/Pictures/pistol_raw/holding pistol/93. 5627ec45df98c832c93a3fda4f7ace21_drawn-fist-gun-pencil-and-in-color-drawn-fist-gun-hand-holding-pistol-drawing_450-343.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>343</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>32</ymin>
+			<xmax>427</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+</annotation>

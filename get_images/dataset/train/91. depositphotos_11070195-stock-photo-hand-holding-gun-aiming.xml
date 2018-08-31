@@ -1,0 +1,26 @@
+<annotation>
+	<folder>holding pistol</folder>
+	<filename>91. depositphotos_11070195-stock-photo-hand-holding-gun-aiming.jpg</filename>
+	<path>/home/helio/Pictures/pistol_raw/holding pistol/91. depositphotos_11070195-stock-photo-hand-holding-gun-aiming.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>968</width>
+		<height>1023</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>169</ymin>
+			<xmax>862</xmax>
+			<ymax>969</ymax>
+		</bndbox>
+	</object>
+</annotation>

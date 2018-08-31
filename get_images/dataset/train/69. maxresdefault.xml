@@ -1,0 +1,26 @@
+<annotation>
+	<folder>holding pistol</folder>
+	<filename>69. maxresdefault.jpg</filename>
+	<path>/home/helio/Pictures/pistol_raw/holding pistol/69. maxresdefault.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>7</ymin>
+			<xmax>1698</xmax>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+</annotation>

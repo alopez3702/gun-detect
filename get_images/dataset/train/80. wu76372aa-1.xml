@@ -1,0 +1,26 @@
+<annotation>
+	<folder>holding pistol</folder>
+	<filename>80. wu76372aa-1.jpg</filename>
+	<path>/home/helio/Pictures/pistol_raw/holding pistol/80. wu76372aa-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>380</width>
+		<height>380</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>213</xmin>
+			<ymin>2</ymin>
+			<xmax>275</xmax>
+			<ymax>85</ymax>
+		</bndbox>
+	</object>
+</annotation>

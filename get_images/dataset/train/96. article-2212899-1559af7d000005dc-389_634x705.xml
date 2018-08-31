@@ -1,0 +1,26 @@
+<annotation>
+	<folder>holding pistol</folder>
+	<filename>96. article-2212899-1559af7d000005dc-389_634x705.jpg</filename>
+	<path>/home/helio/Pictures/pistol_raw/holding pistol/96. article-2212899-1559af7d000005dc-389_634x705.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>634</width>
+		<height>705</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>203</ymin>
+			<xmax>580</xmax>
+			<ymax>446</ymax>
+		</bndbox>
+	</object>
+</annotation>

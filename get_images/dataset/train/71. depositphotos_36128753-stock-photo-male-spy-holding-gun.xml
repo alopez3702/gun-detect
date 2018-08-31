@@ -1,0 +1,26 @@
+<annotation>
+	<folder>holding pistol</folder>
+	<filename>71. depositphotos_36128753-stock-photo-male-spy-holding-gun.jpg</filename>
+	<path>/home/helio/Pictures/pistol_raw/holding pistol/71. depositphotos_36128753-stock-photo-male-spy-holding-gun.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1023</width>
+		<height>682</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>303</xmin>
+			<ymin>12</ymin>
+			<xmax>910</xmax>
+			<ymax>458</ymax>
+		</bndbox>
+	</object>
+</annotation>

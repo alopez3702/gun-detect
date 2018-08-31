@@ -1,0 +1,26 @@
+<annotation>
+	<folder>holding pistol</folder>
+	<filename>97. 39788406-revolver-gun-in-hand-on-white-background.jpg</filename>
+	<path>/home/helio/Pictures/pistol_raw/holding pistol/97. 39788406-revolver-gun-in-hand-on-white-background.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>308</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>10</ymin>
+			<xmax>409</xmax>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>download (26).jpeg</filename>
+	<path>/home/nick/Downloads/object-detection/images/download (26).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>265</width>
+		<height>190</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rifle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>1</ymin>
+			<xmax>155</xmax>
+			<ymax>117</ymax>
+		</bndbox>
+	</object>
+</annotation>

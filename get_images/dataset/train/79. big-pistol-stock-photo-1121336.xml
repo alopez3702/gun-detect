@@ -1,0 +1,26 @@
+<annotation>
+	<folder>holding pistol</folder>
+	<filename>79. big-pistol-stock-photo-1121336.jpg</filename>
+	<path>/home/helio/Pictures/pistol_raw/holding pistol/79. big-pistol-stock-photo-1121336.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>864</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>5</ymin>
+			<xmax>1232</xmax>
+			<ymax>742</ymax>
+		</bndbox>
+	</object>
+</annotation>

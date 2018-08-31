@@ -1,0 +1,38 @@
+<annotation>
+	<folder>holding pistol</folder>
+	<filename>85. silhouette-evening-sunset-girls-gun-wallpaper.jpg</filename>
+	<path>/home/helio/Pictures/pistol_raw/holding pistol/85. silhouette-evening-sunset-girls-gun-wallpaper.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3774</width>
+		<height>2470</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>646</xmin>
+			<ymin>906</ymin>
+			<xmax>1178</xmax>
+			<ymax>1296</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2663</xmin>
+			<ymin>1159</ymin>
+			<xmax>3056</xmax>
+			<ymax>1501</ymax>
+		</bndbox>
+	</object>
+</annotation>

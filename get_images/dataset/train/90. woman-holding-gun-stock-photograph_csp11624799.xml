@@ -1,0 +1,26 @@
+<annotation>
+	<folder>holding pistol</folder>
+	<filename>90. woman-holding-gun-stock-photograph_csp11624799.jpg</filename>
+	<path>/home/helio/Pictures/pistol_raw/holding pistol/90. woman-holding-gun-stock-photograph_csp11624799.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>334</width>
+		<height>470</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>101</ymin>
+			<xmax>294</xmax>
+			<ymax>437</ymax>
+		</bndbox>
+	</object>
+</annotation>

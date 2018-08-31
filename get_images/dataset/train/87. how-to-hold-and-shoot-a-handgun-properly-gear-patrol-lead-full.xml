@@ -1,0 +1,26 @@
+<annotation>
+	<folder>holding pistol</folder>
+	<filename>87. how-to-hold-and-shoot-a-handgun-properly-gear-patrol-lead-full.jpg</filename>
+	<path>/home/helio/Pictures/pistol_raw/holding pistol/87. how-to-hold-and-shoot-a-handgun-properly-gear-patrol-lead-full.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>970</width>
+		<height>650</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>342</xmin>
+			<ymin>50</ymin>
+			<xmax>970</xmax>
+			<ymax>647</ymax>
+		</bndbox>
+	</object>
+</annotation>

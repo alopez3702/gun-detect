@@ -1,0 +1,26 @@
+<annotation>
+	<folder>holding pistol</folder>
+	<filename>76. stock-photo-left-hand-holding-the-gun-320772686.jpg</filename>
+	<path>/home/helio/Pictures/pistol_raw/holding pistol/76. stock-photo-left-hand-holding-the-gun-320772686.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>4</ymin>
+			<xmax>381</xmax>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+</annotation>
