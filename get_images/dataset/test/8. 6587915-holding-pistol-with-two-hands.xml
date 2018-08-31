@@ -1,0 +1,26 @@
+<annotation>
+	<folder>holding pistol</folder>
+	<filename>8. 6587915-holding-pistol-with-two-hands.jpg</filename>
+	<path>/home/helio/Pictures/pistol_raw/holding pistol/8. 6587915-holding-pistol-with-two-hands.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>863</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>286</xmin>
+			<ymin>63</ymin>
+			<xmax>1086</xmax>
+			<ymax>769</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>holding pistol</folder>
+	<filename>32. 12411-a-hand-holding-and-aiming-a-pistol-pv.jpg</filename>
+	<path>/home/helio/Pictures/pistol_raw/holding pistol/32. 12411-a-hand-holding-and-aiming-a-pistol-pv.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>958</width>
+		<height>1114</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>189</ymin>
+			<xmax>807</xmax>
+			<ymax>1114</ymax>
+		</bndbox>
+	</object>
+</annotation>

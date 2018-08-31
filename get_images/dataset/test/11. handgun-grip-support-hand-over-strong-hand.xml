@@ -1,0 +1,26 @@
+<annotation>
+	<folder>holding pistol</folder>
+	<filename>11. handgun-grip-support-hand-over-strong-hand.jpg</filename>
+	<path>/home/helio/Pictures/pistol_raw/holding pistol/11. handgun-grip-support-hand-over-strong-hand.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>610</width>
+		<height>438</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>89</ymin>
+			<xmax>515</xmax>
+			<ymax>424</ymax>
+		</bndbox>
+	</object>
+</annotation>

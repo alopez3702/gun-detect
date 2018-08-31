@@ -1,0 +1,26 @@
+<annotation>
+	<folder>holding pistol</folder>
+	<filename>36. main-qimg-25ede0082b9ff19bf39fccc527d47bbe-c.jpg</filename>
+	<path>/home/helio/Pictures/pistol_raw/holding pistol/36. main-qimg-25ede0082b9ff19bf39fccc527d47bbe-c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>319</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>65</ymin>
+			<xmax>158</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+</annotation>

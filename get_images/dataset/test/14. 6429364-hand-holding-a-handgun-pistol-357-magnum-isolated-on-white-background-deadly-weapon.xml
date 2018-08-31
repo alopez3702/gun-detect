@@ -1,0 +1,26 @@
+<annotation>
+	<folder>holding pistol</folder>
+	<filename>14. 6429364-hand-holding-a-handgun-pistol-357-magnum-isolated-on-white-background-deadly-weapon.jpg</filename>
+	<path>/home/helio/Pictures/pistol_raw/holding pistol/14. 6429364-hand-holding-a-handgun-pistol-357-magnum-isolated-on-white-background-deadly-weapon.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>911</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>274</ymin>
+			<xmax>1045</xmax>
+			<ymax>790</ymax>
+		</bndbox>
+	</object>
+</annotation>

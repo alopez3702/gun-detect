@@ -1,0 +1,26 @@
+<annotation>
+	<folder>holding pistol</folder>
+	<filename>27. 3ece6b4d-f232-4cb5-a393-4a24a4cc4751.jpg</filename>
+	<path>/home/helio/Pictures/pistol_raw/holding pistol/27. 3ece6b4d-f232-4cb5-a393-4a24a4cc4751.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>690</width>
+		<height>859</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>26</ymin>
+			<xmax>659</xmax>
+			<ymax>857</ymax>
+		</bndbox>
+	</object>
+</annotation>

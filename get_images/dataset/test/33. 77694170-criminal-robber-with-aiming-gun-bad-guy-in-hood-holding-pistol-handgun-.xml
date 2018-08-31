@@ -1,0 +1,26 @@
+<annotation>
+	<folder>holding pistol</folder>
+	<filename>33. 77694170-criminal-robber-with-aiming-gun-bad-guy-in-hood-holding-pistol-handgun-.jpg</filename>
+	<path>/home/helio/Pictures/pistol_raw/holding pistol/33. 77694170-criminal-robber-with-aiming-gun-bad-guy-in-hood-holding-pistol-handgun-.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>866</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>257</ymin>
+			<xmax>721</xmax>
+			<ymax>866</ymax>
+		</bndbox>
+	</object>
+</annotation>

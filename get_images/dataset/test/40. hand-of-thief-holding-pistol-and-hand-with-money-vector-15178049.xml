@@ -1,0 +1,26 @@
+<annotation>
+	<folder>holding pistol</folder>
+	<filename>40. hand-of-thief-holding-pistol-and-hand-with-money-vector-15178049.jpg</filename>
+	<path>/home/helio/Pictures/pistol_raw/holding pistol/40. hand-of-thief-holding-pistol-and-hand-with-money-vector-15178049.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>77</ymin>
+			<xmax>756</xmax>
+			<ymax>476</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>holding pistol</folder>
+	<filename>25. stock-photo-man-holding-a-gun-in-his-hand-with-white-background-593859881.jpg</filename>
+	<path>/home/helio/Pictures/pistol_raw/holding pistol/25. stock-photo-man-holding-a-gun-in-his-hand-with-white-background-593859881.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1101</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>322</xmin>
+			<ymin>292</ymin>
+			<xmax>1179</xmax>
+			<ymax>979</ymax>
+		</bndbox>
+	</object>
+</annotation>

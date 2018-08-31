@@ -1,0 +1,26 @@
+<annotation>
+	<folder>holding pistol</folder>
+	<filename>28. 170px-pistol_held_upright.jpg</filename>
+	<path>/home/helio/Pictures/pistol_raw/holding pistol/28. 170px-pistol_held_upright.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>170</width>
+		<height>255</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>12</ymin>
+			<xmax>170</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+</annotation>

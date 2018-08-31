@@ -1,0 +1,26 @@
+<annotation>
+	<folder>holding pistol</folder>
+	<filename>34. cropped-hand-holding-pistol-against-white-background-picture-id923788452.jpg</filename>
+	<path>/home/helio/Pictures/pistol_raw/holding pistol/34. cropped-hand-holding-pistol-against-white-background-picture-id923788452.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>174</ymin>
+			<xmax>892</xmax>
+			<ymax>581</ymax>
+		</bndbox>
+	</object>
+</annotation>
