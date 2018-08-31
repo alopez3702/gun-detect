@@ -1,0 +1,3 @@
+retrained_graph.pb and .txt: model and labels used to detect pistols
+retrained_graph_long_gun.pb and .txt: model and labels used to detect long-guns
+frozen_inference_graph.pb and .txt: model and labels used to detect both pistols and long-guns
