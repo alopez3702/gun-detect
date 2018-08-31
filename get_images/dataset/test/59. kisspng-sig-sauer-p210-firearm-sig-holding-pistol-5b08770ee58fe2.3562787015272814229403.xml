@@ -1,0 +1,26 @@
+<annotation>
+	<folder>holding pistol</folder>
+	<filename>59. kisspng-sig-sauer-p210-firearm-sig-holding-pistol-5b08770ee58fe2.3562787015272814229403.jpg</filename>
+	<path>/home/helio/Pictures/pistol_raw/holding pistol/59. kisspng-sig-sauer-p210-firearm-sig-holding-pistol-5b08770ee58fe2.3562787015272814229403.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>44</ymin>
+			<xmax>828</xmax>
+			<ymax>554</ymax>
+		</bndbox>
+	</object>
+</annotation>

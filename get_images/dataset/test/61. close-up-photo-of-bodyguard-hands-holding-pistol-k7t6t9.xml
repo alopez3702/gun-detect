@@ -1,0 +1,26 @@
+<annotation>
+	<folder>holding pistol</folder>
+	<filename>61. close-up-photo-of-bodyguard-hands-holding-pistol-k7t6t9.jpg</filename>
+	<path>/home/helio/Pictures/pistol_raw/holding pistol/61. close-up-photo-of-bodyguard-hands-holding-pistol-k7t6t9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>957</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>496</xmin>
+			<ymin>318</ymin>
+			<xmax>1037</xmax>
+			<ymax>726</ymax>
+		</bndbox>
+	</object>
+</annotation>

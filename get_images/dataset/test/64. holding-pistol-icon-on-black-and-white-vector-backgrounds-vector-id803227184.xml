@@ -1,0 +1,26 @@
+<annotation>
+	<folder>holding pistol</folder>
+	<filename>64. holding-pistol-icon-on-black-and-white-vector-backgrounds-vector-id803227184.jpg</filename>
+	<path>/home/helio/Pictures/pistol_raw/holding pistol/64. holding-pistol-icon-on-black-and-white-vector-backgrounds-vector-id803227184.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>499</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>140</ymin>
+			<xmax>467</xmax>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+</annotation>
